@@ -1,1 +1,1 @@
-test file
+print("Github init script")
